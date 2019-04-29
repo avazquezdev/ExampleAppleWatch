@@ -1,0 +1,11 @@
+*.DS_Store
+*.iml
+Robovm/examplewatch/.idea/libraries/
+Robovm/examplewatch/out/
+Robovm/examplewatch/robovm-build/
+XCode/examplewatch/WatchKitExtension.appex/
+XCode/examplewatch/build/
+Robovm/examplewatch/.idea/gradle.xml
+Robovm/examplewatch/.idea/workspace.xml
+Robovm/examplewatch/examplewatch.iml
+Robovm/examplewatch/robovm.xml
