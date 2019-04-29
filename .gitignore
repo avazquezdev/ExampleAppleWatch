@@ -8,4 +8,5 @@ XCode/examplewatch/build/
 Robovm/examplewatch/.idea/gradle.xml
 Robovm/examplewatch/.idea/workspace.xml
 Robovm/examplewatch/examplewatch.iml
-Robovm/examplewatch/robovm.xml
+Robovm/.gradle
+Robovm/.idea
